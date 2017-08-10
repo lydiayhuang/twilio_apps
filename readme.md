@@ -1,1 +1,1 @@
-Twilio simple terminal SMS App using Pythong and Flask, built in Vagrant. 
+Twilio simple terminal SMS App using Python and Flask, built in Vagrant. 
